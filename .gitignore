@@ -1,0 +1,4 @@
+#depency
+/node_modules
+#dotenv environment
+/.env
